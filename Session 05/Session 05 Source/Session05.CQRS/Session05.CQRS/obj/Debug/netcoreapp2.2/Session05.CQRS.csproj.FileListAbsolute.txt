@@ -1,0 +1,11 @@
+D:\Tests\Session05.CQRS\Session05.CQRS\bin\Debug\netcoreapp2.2\Session05.CQRS.deps.json
+D:\Tests\Session05.CQRS\Session05.CQRS\bin\Debug\netcoreapp2.2\Session05.CQRS.runtimeconfig.json
+D:\Tests\Session05.CQRS\Session05.CQRS\bin\Debug\netcoreapp2.2\Session05.CQRS.runtimeconfig.dev.json
+D:\Tests\Session05.CQRS\Session05.CQRS\bin\Debug\netcoreapp2.2\Session05.CQRS.dll
+D:\Tests\Session05.CQRS\Session05.CQRS\obj\Debug\netcoreapp2.2\Session05.CQRS.csprojAssemblyReference.cache
+D:\Tests\Session05.CQRS\Session05.CQRS\obj\Debug\netcoreapp2.2\Session05.CQRS.csproj.CoreCompileInputs.cache
+D:\Tests\Session05.CQRS\Session05.CQRS\obj\Debug\netcoreapp2.2\Session05.CQRS.AssemblyInfoInputs.cache
+D:\Tests\Session05.CQRS\Session05.CQRS\obj\Debug\netcoreapp2.2\Session05.CQRS.AssemblyInfo.cs
+D:\Tests\Session05.CQRS\Session05.CQRS\bin\Debug\netcoreapp2.2\Session05.CQRS.pdb
+D:\Tests\Session05.CQRS\Session05.CQRS\obj\Debug\netcoreapp2.2\Session05.CQRS.dll
+D:\Tests\Session05.CQRS\Session05.CQRS\obj\Debug\netcoreapp2.2\Session05.CQRS.pdb

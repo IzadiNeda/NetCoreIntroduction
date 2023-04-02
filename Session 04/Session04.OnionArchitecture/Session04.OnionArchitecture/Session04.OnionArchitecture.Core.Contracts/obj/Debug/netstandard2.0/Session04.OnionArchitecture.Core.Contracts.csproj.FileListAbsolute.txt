@@ -1,0 +1,12 @@
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.deps.json
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.pdb
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Entities.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Entities.pdb
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.csprojAssemblyReference.cache
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.csproj.CoreCompileInputs.cache
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.AssemblyInfoInputs.cache
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.AssemblyInfo.cs
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.csproj.CopyComplete
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Contracts\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.pdb

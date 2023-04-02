@@ -1,0 +1,8 @@
+C:\Users\Alireza\source\repos\Session06.Relational.UI\Session06.Relational.UI\bin\Debug\netcoreapp2.2\Session06.Relational.UI.deps.json
+C:\Users\Alireza\source\repos\Session06.Relational.UI\Session06.Relational.UI\bin\Debug\netcoreapp2.2\Session06.Relational.UI.runtimeconfig.json
+C:\Users\Alireza\source\repos\Session06.Relational.UI\Session06.Relational.UI\bin\Debug\netcoreapp2.2\Session06.Relational.UI.runtimeconfig.dev.json
+C:\Users\Alireza\source\repos\Session06.Relational.UI\Session06.Relational.UI\bin\Debug\netcoreapp2.2\Session06.Relational.UI.dll
+C:\Users\Alireza\source\repos\Session06.Relational.UI\Session06.Relational.UI\obj\Debug\netcoreapp2.2\Session06.Relational.UI.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session06.Relational.UI\Session06.Relational.UI\obj\Debug\netcoreapp2.2\Session06.Relational.UI.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Session06.Relational.UI\Session06.Relational.UI\obj\Debug\netcoreapp2.2\Session06.Relational.UI.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session06.Relational.UI\Session06.Relational.UI\obj\Debug\netcoreapp2.2\Session06.Relational.UI.AssemblyInfo.cs

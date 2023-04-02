@@ -1,0 +1,14 @@
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.deps.json
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.pdb
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Entities.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.pdb
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Entities.pdb
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.csprojAssemblyReference.cache
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.csproj.CoreCompileInputs.cache
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.AssemblyInfoInputs.cache
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.AssemblyInfo.cs
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.csproj.CopyComplete
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.Core.Services\obj\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Services.pdb

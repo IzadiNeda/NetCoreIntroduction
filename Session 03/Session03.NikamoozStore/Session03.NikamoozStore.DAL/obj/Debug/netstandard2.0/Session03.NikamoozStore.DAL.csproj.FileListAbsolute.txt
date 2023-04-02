@@ -1,0 +1,12 @@
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\bin\Debug\netstandard2.0\Session03.NikamoozStore.DAL.deps.json
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\bin\Debug\netstandard2.0\Session03.NikamoozStore.DAL.dll
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\obj\Debug\netstandard2.0\Session03.NikamoozStore.DAL.csprojAssemblyReference.cache
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\obj\Debug\netstandard2.0\Session03.NikamoozStore.DAL.csproj.CoreCompileInputs.cache
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\obj\Debug\netstandard2.0\Session03.NikamoozStore.DAL.AssemblyInfoInputs.cache
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\obj\Debug\netstandard2.0\Session03.NikamoozStore.DAL.AssemblyInfo.cs
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\bin\Debug\netstandard2.0\Session03.NikamoozStore.DAL.pdb
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\bin\Debug\netstandard2.0\Session03.NikamoozStore.Domain.dll
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\bin\Debug\netstandard2.0\Session03.NikamoozStore.Domain.pdb
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\obj\Debug\netstandard2.0\Session03.NikamoozStore.DAL.csproj.CopyComplete
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\obj\Debug\netstandard2.0\Session03.NikamoozStore.DAL.dll
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.DAL\obj\Debug\netstandard2.0\Session03.NikamoozStore.DAL.pdb

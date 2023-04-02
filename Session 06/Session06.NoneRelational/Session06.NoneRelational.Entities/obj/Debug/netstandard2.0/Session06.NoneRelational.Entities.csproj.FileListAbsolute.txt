@@ -1,0 +1,12 @@
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\bin\Debug\netstandard2.0\Session06.NoneRelational.Entities.deps.json
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\bin\Debug\netstandard2.0\Session06.NoneRelational.Entities.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\bin\Debug\netstandard2.0\Session06.NoneRelational.Entities.pdb
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\obj\Debug\netstandard2.0\Session06.NoneRelational.Entities.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\obj\Debug\netstandard2.0\Session06.NoneRelational.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\obj\Debug\netstandard2.0\Session06.NoneRelational.Entities.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\obj\Debug\netstandard2.0\Session06.NoneRelational.Entities.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\obj\Debug\netstandard2.0\Session06.NoneRelational.Entities.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\obj\Debug\netstandard2.0\Session06.NoneRelational.Entities.pdb
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.Entities\obj\Debug\netstandard2.0\Session06.NoneRelational.Entities.csproj.CopyComplete

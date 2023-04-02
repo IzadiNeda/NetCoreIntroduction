@@ -1,0 +1,11 @@
+D:\Tests\Session05.CRUD\Session05.Crud.UI\bin\Debug\netcoreapp2.2\Session05.Crud.UI.deps.json
+D:\Tests\Session05.CRUD\Session05.Crud.UI\bin\Debug\netcoreapp2.2\Session05.Crud.UI.runtimeconfig.json
+D:\Tests\Session05.CRUD\Session05.Crud.UI\bin\Debug\netcoreapp2.2\Session05.Crud.UI.runtimeconfig.dev.json
+D:\Tests\Session05.CRUD\Session05.Crud.UI\bin\Debug\netcoreapp2.2\Session05.Crud.UI.dll
+D:\Tests\Session05.CRUD\Session05.Crud.UI\obj\Debug\netcoreapp2.2\Session05.Crud.UI.csprojAssemblyReference.cache
+D:\Tests\Session05.CRUD\Session05.Crud.UI\obj\Debug\netcoreapp2.2\Session05.Crud.UI.csproj.CoreCompileInputs.cache
+D:\Tests\Session05.CRUD\Session05.Crud.UI\obj\Debug\netcoreapp2.2\Session05.Crud.UI.AssemblyInfoInputs.cache
+D:\Tests\Session05.CRUD\Session05.Crud.UI\obj\Debug\netcoreapp2.2\Session05.Crud.UI.AssemblyInfo.cs
+D:\Tests\Session05.CRUD\Session05.Crud.UI\bin\Debug\netcoreapp2.2\Session05.Crud.UI.pdb
+D:\Tests\Session05.CRUD\Session05.Crud.UI\obj\Debug\netcoreapp2.2\Session05.Crud.UI.dll
+D:\Tests\Session05.CRUD\Session05.Crud.UI\obj\Debug\netcoreapp2.2\Session05.Crud.UI.pdb

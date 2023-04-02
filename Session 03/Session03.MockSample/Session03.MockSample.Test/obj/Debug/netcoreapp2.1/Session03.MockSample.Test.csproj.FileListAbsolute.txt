@@ -1,0 +1,17 @@
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\Session03.MockSample.Test.deps.json
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\Session03.MockSample.Test.runtimeconfig.json
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\Session03.MockSample.Test.runtimeconfig.dev.json
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\Session03.MockSample.Test.dll
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\Session03.MockSample.Test.pdb
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\Session03.MockSample.dll
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\bin\Debug\netcoreapp2.1\Session03.MockSample.pdb
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\obj\Debug\netcoreapp2.1\Session03.MockSample.Test.csprojAssemblyReference.cache
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\obj\Debug\netcoreapp2.1\Session03.MockSample.Test.csproj.CoreCompileInputs.cache
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\obj\Debug\netcoreapp2.1\Session03.MockSample.Test.AssemblyInfoInputs.cache
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\obj\Debug\netcoreapp2.1\Session03.MockSample.Test.AssemblyInfo.cs
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\obj\Debug\netcoreapp2.1\Session03.MockSample.Test.csproj.CopyComplete
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\obj\Debug\netcoreapp2.1\Session03.MockSample.Test.dll
+D:\Tests\Session03.MockSample\Session03.MockSample.Test\obj\Debug\netcoreapp2.1\Session03.MockSample.Test.pdb

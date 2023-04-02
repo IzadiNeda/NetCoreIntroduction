@@ -1,0 +1,12 @@
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\bin\Debug\netstandard2.0\Session06.NoneRelational.DAL.deps.json
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\bin\Debug\netstandard2.0\Session06.NoneRelational.DAL.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\obj\Debug\netstandard2.0\Session06.NoneRelational.DAL.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\obj\Debug\netstandard2.0\Session06.NoneRelational.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\obj\Debug\netstandard2.0\Session06.NoneRelational.DAL.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\obj\Debug\netstandard2.0\Session06.NoneRelational.DAL.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\bin\Debug\netstandard2.0\Session06.NoneRelational.DAL.pdb
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\bin\Debug\netstandard2.0\Session06.NoneRelational.Entities.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\bin\Debug\netstandard2.0\Session06.NoneRelational.Entities.pdb
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\obj\Debug\netstandard2.0\Session06.NoneRelational.DAL.csproj.CopyComplete
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\obj\Debug\netstandard2.0\Session06.NoneRelational.DAL.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.DAL\obj\Debug\netstandard2.0\Session06.NoneRelational.DAL.pdb

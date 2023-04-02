@@ -1,0 +1,14 @@
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Entities.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\obj\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.csprojAssemblyReference.cache
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\obj\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.csproj.CoreCompileInputs.cache
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\obj\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.AssemblyInfoInputs.cache
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\obj\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.AssemblyInfo.cs
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\bin\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.deps.json
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\bin\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\bin\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.pdb
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Contracts.pdb
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\bin\Debug\netstandard2.0\Session04.OnionArchitecture.Core.Entities.pdb
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\obj\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.csproj.CopyComplete
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\obj\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.dll
+D:\Tests\Session04.OnionArchitecture\Session04.OnionArchitecture.DataAccess.EF\obj\Debug\netstandard2.0\Session04.OnionArchitecture.DataAccess.EF.pdb

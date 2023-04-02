@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.EndPoints.Console\\Session04.OnionArchitecture.EndPoints.Console.csproj": {}
+  },
+  "projects": {
+    "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\Session04.OnionArchitecture.Core.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\Session04.OnionArchitecture.Core.Contracts.csproj",
+        "projectName": "Session04.OnionArchitecture.Core.Contracts",
+        "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\Session04.OnionArchitecture.Core.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\Session04.OnionArchitecture.Core.Entities.csproj": {
+                "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\Session04.OnionArchitecture.Core.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\Session04.OnionArchitecture.Core.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\Session04.OnionArchitecture.Core.Entities.csproj",
+        "projectName": "Session04.OnionArchitecture.Core.Entities",
+        "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\Session04.OnionArchitecture.Core.Entities.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Services\\Session04.OnionArchitecture.Core.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Services\\Session04.OnionArchitecture.Core.Services.csproj",
+        "projectName": "Session04.OnionArchitecture.Core.Services",
+        "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Services\\Session04.OnionArchitecture.Core.Services.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\Session04.OnionArchitecture.Core.Contracts.csproj": {
+                "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\Session04.OnionArchitecture.Core.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.DataAccess.EF\\Session04.OnionArchitecture.DataAccess.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.DataAccess.EF\\Session04.OnionArchitecture.DataAccess.EF.csproj",
+        "projectName": "Session04.OnionArchitecture.DataAccess.EF",
+        "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.DataAccess.EF\\Session04.OnionArchitecture.DataAccess.EF.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.DataAccess.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\Session04.OnionArchitecture.Core.Contracts.csproj": {
+                "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\Session04.OnionArchitecture.Core.Contracts.csproj"
+              },
+              "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\Session04.OnionArchitecture.Core.Entities.csproj": {
+                "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\Session04.OnionArchitecture.Core.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.EndPoints.Console\\Session04.OnionArchitecture.EndPoints.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.EndPoints.Console\\Session04.OnionArchitecture.EndPoints.Console.csproj",
+        "projectName": "Session04.OnionArchitecture.EndPoints.Console",
+        "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.EndPoints.Console\\Session04.OnionArchitecture.EndPoints.Console.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.EndPoints.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\Session04.OnionArchitecture.Core.Contracts.csproj": {
+                "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Contracts\\Session04.OnionArchitecture.Core.Contracts.csproj"
+              },
+              "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\Session04.OnionArchitecture.Core.Entities.csproj": {
+                "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Entity\\Session04.OnionArchitecture.Core.Entities.csproj"
+              },
+              "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Services\\Session04.OnionArchitecture.Core.Services.csproj": {
+                "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.Core.Services\\Session04.OnionArchitecture.Core.Services.csproj"
+              },
+              "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.DataAccess.EF\\Session04.OnionArchitecture.DataAccess.EF.csproj": {
+                "projectPath": "D:\\Tests\\Session04.OnionArchitecture\\Session04.OnionArchitecture.DataAccess.EF\\Session04.OnionArchitecture.DataAccess.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

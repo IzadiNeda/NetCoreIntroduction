@@ -1,0 +1,16 @@
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\bin\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.deps.json
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\bin\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.runtimeconfig.json
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\bin\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.runtimeconfig.dev.json
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\bin\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.dll
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\obj\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.csprojAssemblyReference.cache
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\obj\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.csproj.CoreCompileInputs.cache
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\obj\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.AssemblyInfoInputs.cache
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\obj\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.AssemblyInfo.cs
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\bin\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.pdb
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\bin\Debug\netcoreapp2.2\Session03.NikamoozStore.DAL.dll
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\bin\Debug\netcoreapp2.2\Session03.NikamoozStore.Domain.dll
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\bin\Debug\netcoreapp2.2\Session03.NikamoozStore.DAL.pdb
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\bin\Debug\netcoreapp2.2\Session03.NikamoozStore.Domain.pdb
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\obj\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.csproj.CopyComplete
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\obj\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.dll
+D:\Tests\Session03.NikamoozStore\Session03.NikamoozStore.EndPoint\obj\Debug\netcoreapp2.2\Session03.NikamoozStore.EndPoint.pdb

@@ -1,0 +1,16 @@
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\bin\Debug\netcoreapp2.2\Session06.NoneRelational.UI.deps.json
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\bin\Debug\netcoreapp2.2\Session06.NoneRelational.UI.runtimeconfig.json
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\bin\Debug\netcoreapp2.2\Session06.NoneRelational.UI.runtimeconfig.dev.json
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\bin\Debug\netcoreapp2.2\Session06.NoneRelational.UI.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\obj\Debug\netcoreapp2.2\Session06.NoneRelational.UI.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\obj\Debug\netcoreapp2.2\Session06.NoneRelational.UI.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\obj\Debug\netcoreapp2.2\Session06.NoneRelational.UI.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\obj\Debug\netcoreapp2.2\Session06.NoneRelational.UI.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\bin\Debug\netcoreapp2.2\Session06.NoneRelational.UI.pdb
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\bin\Debug\netcoreapp2.2\Session06.NoneRelational.DAL.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\bin\Debug\netcoreapp2.2\Session06.NoneRelational.Entities.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\bin\Debug\netcoreapp2.2\Session06.NoneRelational.DAL.pdb
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\bin\Debug\netcoreapp2.2\Session06.NoneRelational.Entities.pdb
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\obj\Debug\netcoreapp2.2\Session06.NoneRelational.UI.csproj.CopyComplete
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\obj\Debug\netcoreapp2.2\Session06.NoneRelational.UI.dll
+C:\Users\Alireza\source\repos\Session06.NoneRelational\Session06.NoneRelational.UI\obj\Debug\netcoreapp2.2\Session06.NoneRelational.UI.pdb
